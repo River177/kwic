@@ -1,5 +1,5 @@
 # Rust
-/target/
+**/target/
 **/*.rs.bk
 Cargo.lock
 
@@ -11,4 +11,12 @@ Cargo.lock
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib 

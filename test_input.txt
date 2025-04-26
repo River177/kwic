@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog 
+Architecture styles are important for software design 
+KWIC system demonstrates different architectural approaches 
